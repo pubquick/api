@@ -5,7 +5,7 @@ The Premium Web Services are the right choice for you if you need fast, reliable
  <ul>
   <li>
   <p>Word Document to JSON Converter</p>
-  <p>Word to JSON is an advanced Word document processing REST API that enables you to perform a wide range of document processing tasks directly within your applications. It also allows exporting or converting Word documents to JSON file formats.</p>
+  <p>Word to JSON Converter is an advanced Word document processing REST API that enables you to perform a wide range of document processing tasks directly within your applications. It also allows exporting or converting Word documents to JSON file formats.</p>
   <h3>Word to JSON as a Dataset builder</h3>
   <p>It's a perfect tool for Indexing, Data mining, Dataset building for Machine Learning and many other use cases. A couple of pointers to keep in mind when building the datasets.</p>
 				<ul>
